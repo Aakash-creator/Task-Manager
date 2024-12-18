@@ -37,8 +37,8 @@ The **Simple Task Manager** is a backend-driven application built using Java Spr
   cd simple-task-manager
 
 ## Configure MySQL Database:
-  spring.datasource.url=jdbc:mysql://localhost:3306/task_manager
-  spring.datasource.username=your_username
-  spring.datasource.password=your_password
-  spring.jpa.hibernate.ddl-auto=update
+  - spring.datasource.url=jdbc:mysql://localhost:3306/task_manager
+  - spring.datasource.username=your_username
+  - spring.datasource.password=your_password
+  - spring.jpa.hibernate.ddl-auto=update
 
